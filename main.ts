@@ -57,7 +57,7 @@ basic.forever(function () {
             . . . . .
             . . . . .
             `)
-    } else if (Math.abs(d - 45) <= 22) {
+    } else {
         basic.showLeds(`
             . . # . .
             . . # . .
